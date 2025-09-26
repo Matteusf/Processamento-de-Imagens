@@ -1,0 +1,42 @@
+Descrições das Imagens:
+
+Nome da Imagem: chave_i_d_07.jpg
+Dimensões: 4000x2252
+Características de Aquisição (Dia, Interno): 
+Descrição (a chave esta bem iluminada com somba): 
+------------------------------
+Nome da Imagem: carro_o_d_07.jpg
+Dimensões: 4000x3000
+Características de Aquisição (Dia,Externo): 
+Descrição (o carro esta aparecendo por inteiro mais tem sombra no objeto): 
+------------------------------
+Nome da Imagem: escova_i_d_07.jpg
+Dimensões: 4000x2252
+Características de Aquisição (Dia, Externo): 
+Descrição (a escova aparece bem sem sombras): 
+------------------------------
+Nome da Imagem: carro_o_n_07.jpg
+Dimensões: 4000x2252
+Características de Aquisição (Noite,Externo): 
+Descrição (o carro nao esta aparecendo por inteiro com boa luz e sem sombra): 
+------------------------------
+Nome da Imagem: escova_o_n_07.jpg
+Dimensões: 4000x2252
+Características de Aquisição (Noite,Externo): 
+Descrição (a escova quase nao aparece pois esta contra a luz): 
+------------------------------
+Nome da Imagem: escova_i_n_07.jpg
+Dimensões: 4000x2252
+Características de Aquisição (Noite, Interno): 
+Descrição (a escova aparece bem so tem a sombra de algus objetos): 
+------------------------------
+Nome da Imagem: chave_i_n_07.jpg
+Dimensões: 4000x2252
+Características de Aquisição (Noite, Interno): 
+Descrição (a chave aparece bem mais tem a sombra do telefone): 
+------------------------------
+Nome da Imagem: flor_o_d_07.jpg
+Dimensões: 4000x2252
+Características de Aquisição (Ex: Dia,Externo): 
+Descrição (a flor aparece bem ): 
+------------------------------
